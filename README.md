@@ -1,5 +1,5 @@
 # Sales-Data-Analysis
-Analyzing a simple sales dataset by using tableau for data visualization.
+Analyzing a simple sales dataset by using tableau as a data visualization tool.
 
 This repository contains Tableau-based sales and regional analysis visualizations for understanding business trends over time and across various regions. These dashboards offer insights into sales performance, profit margins, customer segments, and category-wise breakdowns. They serve as valuable tools for business intelligence, allowing for strategic decision-making.
 
