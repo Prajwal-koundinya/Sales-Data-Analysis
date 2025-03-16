@@ -33,6 +33,6 @@ Shipping Modes Impact on Profitability:
 Modes include First Class, Standard Class, Second Class, and Same Day.
 Standard Class has the highest sales volume but relatively lower profits compared to First Class.
 Customer Segmentation:
-Key customer segments: In/Out of top customers by profit and order preferences.
+Key customer segments: In and Out of top customers by profit and order preferences.
 
 
