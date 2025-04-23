@@ -19,7 +19,7 @@
 
 ---
 
-## 📈 Sales and Categories Dashboard
+## 📈 Sales and Categories Dashboard:
 
 > **Overview:** A comprehensive view of sales trends, product performance, and customer segments.
 
